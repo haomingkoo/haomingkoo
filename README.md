@@ -4,7 +4,7 @@
 
 **AI Engineer & Digital Transformation Leader**
 
-Building production ML systems at AI Singapore | Ex-Micron ($600M+ impact) | MSc NUS (4.85/5.00)
+Building production ML systems at AI Singapore | Ex-Micron ($600M+ impact) | MSc NUS
 
 [![Website](https://img.shields.io/badge/kooexperience.com-3b82f6?style=flat&logo=google-chrome&logoColor=white)](https://kooexperience.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3b82f6?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/haomingkoo)
