@@ -68,8 +68,17 @@ Previously led global AI-enabled transformation at **Micron Technology** for 6+ 
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+**Building**
+- [How 468 Facial Landmarks Decide If You're Passport-Ready](https://kooexperience.com/blog/posts/photo-id-studio.html) — MediaPipe, compliance checks, 6 countries
+- [How I Built an AI-Powered Stock Market Dashboard](https://kooexperience.com/blog/posts/trader-koo.html) — YOLOv8 chart-pattern detection
+- [I Tried to Predict Singapore's Rain and It Humbled Me](https://kooexperience.com/blog/posts/lionweather.html) — LightGBM, SHAP, 8 years of weather data
+
+**Travel**
+- [9 Days in the Netherlands — Tulips, Windmills & Dutch Masters](https://kooexperience.com/travel/posts/netherlands.html)
+- [10 Days in Japan — Snow Festivals, Early Sakura & Mount Fuji](https://kooexperience.com/travel/posts/japan.html)
+- [13 Days Across Italy — A Winter Family Trip](https://kooexperience.com/travel/posts/italy.html)
+- [11 Days Across Japan — Sakura Season from Tokyo to Hiroshima](https://kooexperience.com/travel/posts/japan-sakura.html)
+- [5 Days in Seoul — Palaces, Street Food & Cafe Culture](https://kooexperience.com/travel/posts/korea.html)
 
 ## Connect
 
