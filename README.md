@@ -50,7 +50,7 @@ Previously led global AI-enabled transformation at **Micron Technology** for 6+ 
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Job Hunter SG**](https://job.kooexperience.com) | AI job search & resume builder for Singapore. 72K+ jobs, ATS scoring, RAG matching, cover letters | FastAPI, React, SEA-LION, RAG |
+| [**Job Hunter SG**](https://job.kooexperience.com) | AI job search & resume coach for Singapore. 7-stage pipeline, 5 validation gates, RAG matching | FastAPI, React, SEA-LION, RAG |
 | [**Trader Koo**](https://trader.kooexperience.com) | S&P 500 AI dashboard with YOLOv8 chart-pattern detection and candle signals | FastAPI, YOLOv8, Plotly |
 | [**LionWeather**](https://lionweather.kooexperience.com) | Singapore weather intelligence with ML rainfall forecasting and SHAP analysis | React, LightGBM, Leaflet |
 | [**Preflight**](https://preflight.kooexperience.com) | Upload CSV/Parquet for instant EDA, data health checks, and baseline ML | Dash, scikit-learn, Plotly |
@@ -61,17 +61,26 @@ Previously led global AI-enabled transformation at **Micron Technology** for 6+ 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=haomingkoo&show_icons=true&theme=default&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=333333&bg_color=ffffff" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haomingkoo&layout=compact&hide_border=true&title_color=3b82f6&text_color=333333&bg_color=ffffff" alt="Top Languages" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=haomingkoo&show_icons=true&theme=default&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=333333&bg_color=ffffff&cache_seconds=86400" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haomingkoo&layout=compact&hide_border=true&title_color=3b82f6&text_color=333333&bg_color=ffffff&cache_seconds=86400" alt="Top Languages" height="170" />
 
 </div>
 
 ## Latest Blog Posts
 
 **Building**
+- [Building Job Hunter SG — AI Resume Coaching for Singapore](https://kooexperience.com/blog/posts/job-hunter.html) — 7-stage pipeline, 5 validation gates, SEA-LION AI
+- [What Mood Is the Market In? HMM Regime Detection](https://kooexperience.com/blog/posts/hmm-regime.html) — Interactive HMM walkthrough with live visualizations
 - [How 468 Facial Landmarks Decide If You're Passport-Ready](https://kooexperience.com/blog/posts/photo-id-studio.html) — MediaPipe, compliance checks, 6 countries
 - [How I Built an AI-Powered Stock Market Dashboard](https://kooexperience.com/blog/posts/trader-koo.html) — YOLOv8 chart-pattern detection
-- [I Tried to Predict Singapore's Rain and It Humbled Me](https://kooexperience.com/blog/posts/lionweather.html) — LightGBM, SHAP, 8 years of weather data
+
+**Research**
+- [DPO Interactive Demo — Your Language Model is Secretly a Reward Model](https://kooexperience.com/blog/posts/dpo-demo.html) — Interactive DPO loss calculator
+- [Visualizing Weak-Driven Learning: An Interactive WMSS Demo](https://kooexperience.com/blog/posts/wmss-demo.html) — SFT saturation, logit mixing, gradient amplification
+
+**LLMOps**
+- [What I Learned from a Live LLM Serving Gauntlet](https://kooexperience.com/blog/posts/llm-gauntlet.html) — 19 engineers, 19 A100s, vLLM tuning
+- [LLM Inference: The Theory You Need Before Deploying](https://kooexperience.com/blog/posts/llm-inference-theory.html) — Prefill vs decode, VRAM math, quantization
 
 **Travel**
 - [9 Days in the Netherlands — Tulips, Windmills & Dutch Masters](https://kooexperience.com/travel/posts/netherlands.html)
