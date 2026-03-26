@@ -50,12 +50,12 @@ Previously led global AI-enabled transformation at **Micron Technology** for 6+ 
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [**Job Hunter SG**](https://job.kooexperience.com) | AI job search & resume builder for Singapore. 72K+ jobs, ATS scoring, RAG matching, cover letters | FastAPI, React, SEA-LION, RAG |
 | [**Trader Koo**](https://trader.kooexperience.com) | S&P 500 AI dashboard with YOLOv8 chart-pattern detection and candle signals | FastAPI, YOLOv8, Plotly |
 | [**LionWeather**](https://lionweather.kooexperience.com) | Singapore weather intelligence with ML rainfall forecasting and SHAP analysis | React, LightGBM, Leaflet |
 | [**Preflight**](https://preflight.kooexperience.com) | Upload CSV/Parquet for instant EDA, data health checks, and baseline ML | Dash, scikit-learn, Plotly |
-| [**Handwriting Lab**](https://handwriting.kooexperience.com) | Rotation-aware digit recognition with canvas prediction and training pipeline | PyTorch, MLflow, FastAPI |
 | [**Photo Compliance Studio**](https://studio.kooexperience.com) | Passport-photo compliance checks with country rules and guided corrections | MediaPipe, OpenCV, FastAPI |
-| [**Wine Intelligence**](https://kooexperience.com/wine.html) | Wine price and critic-score comparison across retailers | Selenium, SQLAlchemy, FastAPI |
+| [**Wine Intelligence**](https://wine.kooexperience.com) | Wine price and critic-score comparison across retailers | Selenium, SQLAlchemy, FastAPI |
 
 ## GitHub Stats
 
