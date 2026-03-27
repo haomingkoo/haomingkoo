@@ -61,7 +61,6 @@ Previously led global AI-enabled transformation at **Micron Technology** for 6+ 
 
 <div align="center">
 
-<img src="./profile/stats.svg" alt="GitHub Stats" height="170" />
 <img src="./profile/top-langs.svg" alt="Top Languages" height="170" />
 
 </div>
