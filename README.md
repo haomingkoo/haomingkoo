@@ -61,8 +61,8 @@ Previously led global AI-enabled transformation at **Micron Technology** for 6+ 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=haomingkoo&show_icons=true&theme=default&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=333333&bg_color=ffffff&cache_seconds=86400" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haomingkoo&layout=compact&hide_border=true&title_color=3b82f6&text_color=333333&bg_color=ffffff&cache_seconds=86400" alt="Top Languages" height="170" />
+<img src="./profile/stats.svg" alt="GitHub Stats" height="170" />
+<img src="./profile/top-langs.svg" alt="Top Languages" height="170" />
 
 </div>
 
