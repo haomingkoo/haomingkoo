@@ -2,9 +2,9 @@
 
 # Haoming Koo
 
-**AI Engineer & Digital Transformation Leader**
+**Forward Deployed AI Engineer**
 
-Building production ML systems at AI Singapore | Ex-Micron ($600M+ impact) | MSc NUS
+Production LLM systems, agentic workflows, enterprise deployments | AI Singapore | Ex-Micron ($600M+ impact) | MSc NUS
 
 [![Website](https://img.shields.io/badge/kooexperience.com-3b82f6?style=flat&logo=google-chrome&logoColor=white)](https://kooexperience.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3b82f6?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/haomingkoo)
@@ -16,11 +16,11 @@ Building production ML systems at AI Singapore | Ex-Micron ($600M+ impact) | MSc
 
 ## What I'm Working On
 
-- Building end-to-end ML systems at **AI Singapore (AIAP)** across computer vision, sequence modelling, and NLP
-- Expanding into **GenAI, RAG, and Agentic AI** workflows
-- Shipping live apps that integrate ML models with cloud-hosted dashboards at [kooexperience.com](https://kooexperience.com)
+- Building production ML systems at **AI Singapore (AIAP)** &mdash; computer vision, sequence modelling, NLP
+- Deploying **LLM pipelines, RAG systems, and agentic workflows** into enterprise environments
+- Shipping [7 live applications](https://kooexperience.com) that solve real problems &mdash; from AI-powered job matching to automated wine price intelligence
 
-Previously led global AI-enabled transformation at **Micron Technology** for 6+ years, aligning 3,000+ engineers across four fabs and driving $600M+ in business impact.
+Previously led global AI-enabled transformation at **Micron Technology** for 7+ years, aligning 3,000+ engineers across four fabs and driving $600M+ in business impact. Co-led LPDDR5X and HBM3E product ramps.
 
 ## Tech Stack
 
@@ -55,7 +55,7 @@ Previously led global AI-enabled transformation at **Micron Technology** for 6+ 
 | [**LionWeather**](https://lionweather.kooexperience.com) | Singapore weather intelligence with ML rainfall forecasting and SHAP analysis | React, LightGBM, Leaflet |
 | [**Preflight**](https://preflight.kooexperience.com) | Upload CSV/Parquet for instant EDA, data health checks, and baseline ML | Dash, scikit-learn, Plotly |
 | [**Photo Compliance Studio**](https://studio.kooexperience.com) | Passport-photo compliance checks with country rules and guided corrections | MediaPipe, OpenCV, FastAPI |
-| [**Wine Intelligence**](https://wine.kooexperience.com) | Wine price and critic-score comparison across retailers | Selenium, SQLAlchemy, FastAPI |
+| [**Wine Intelligence**](https://wine.kooexperience.com) | Automated wine price comparison with Vivino ratings, deal scoring, and data validation pipeline | Selenium, Gemini AI, Brave API, FastAPI |
 
 ## GitHub Stats
 
@@ -68,6 +68,7 @@ Previously led global AI-enabled transformation at **Micron Technology** for 6+ 
 ## Latest Blog Posts
 
 **Building**
+- [I Built an AI Wine Deal Finder — Here's What 50 Bottles Taught Me](https://kooexperience.com/blog/posts/minmax-wine.html) — Brave API, Gemini grounding, data validation pipeline
 - [Building Job Hunter SG — AI Resume Coaching for Singapore](https://kooexperience.com/blog/posts/job-hunter.html) — 7-stage pipeline, 5 validation gates, SEA-LION AI
 - [What Mood Is the Market In? HMM Regime Detection](https://kooexperience.com/blog/posts/hmm-regime.html) — Interactive HMM walkthrough with live visualizations
 - [How 468 Facial Landmarks Decide If You're Passport-Ready](https://kooexperience.com/blog/posts/photo-id-studio.html) — MediaPipe, compliance checks, 6 countries
@@ -90,7 +91,7 @@ Previously led global AI-enabled transformation at **Micron Technology** for 6+ 
 
 ## Connect
 
-I'm always open to conversations about AI engineering, ML systems, and digital transformation.
+Open to conversations about forward deployed AI, production ML systems, and agentic workflows.
 
 - Website: [kooexperience.com](https://kooexperience.com)
 - LinkedIn: [linkedin.com/in/haomingkoo](https://linkedin.com/in/haomingkoo)
