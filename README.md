@@ -18,7 +18,8 @@ Production LLM systems, agentic workflows, enterprise deployments | AI Singapore
 
 - Building production ML systems at **AI Singapore (AIAP)** &mdash; computer vision, sequence modelling, NLP
 - Deploying **LLM pipelines, RAG systems, and agentic workflows** into enterprise environments
-- Shipping [7 live applications](https://kooexperience.com) that solve real problems &mdash; from AI-powered job matching to automated wine price intelligence
+- Shipping [8 live applications](https://kooexperience.com) that solve real problems &mdash; from AI-powered job matching to live Japan seasonal travel forecasts
+- Building open-source tools: [japan-seasons-mcp](https://github.com/haomingkoo/japan-seasons-mcp) — MCP server giving AI assistants live Japan travel data (1,700+ spots, 12 tools, Japan Meteorological Corporation)
 
 Previously led global AI-enabled transformation at **Micron Technology** for 7+ years, aligning 3,000+ engineers across four fabs and driving $600M+ in business impact. Co-led LPDDR5X and HBM3E product ramps.
 
@@ -37,6 +38,7 @@ Previously led global AI-enabled transformation at **Micron Technology** for 7+ 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 **Infrastructure & MLOps**\
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -56,6 +58,7 @@ Previously led global AI-enabled transformation at **Micron Technology** for 7+ 
 | [**Preflight**](https://preflight.kooexperience.com) | Upload CSV/Parquet for instant EDA, data health checks, and baseline ML | Dash, scikit-learn, Plotly |
 | [**Photo Compliance Studio**](https://studio.kooexperience.com) | Passport-photo compliance checks with country rules and guided corrections | MediaPipe, OpenCV, FastAPI |
 | [**Wine Intelligence**](https://wine.kooexperience.com) | Automated wine price comparison with Vivino ratings, deal scoring, and data validation pipeline | Selenium, Gemini AI, Brave API, FastAPI |
+| [**Japan in Seasons**](https://seasons.kooexperience.com) | Live Japan seasonal travel — cherry blossom forecasts, autumn leaves, fruit picking & festivals. 1,700+ spots from JMC. MCP server + interactive map | TypeScript, Leaflet, MCP |
 
 ## GitHub Stats
 
