@@ -71,6 +71,8 @@ Previously led global AI-enabled transformation at **Micron Technology** for 7+ 
 ## Latest Blog Posts
 
 **Building**
+- [I Went from 64 to 100/100 on Smithery. Here's Every Fix.](https://kooexperience.com/blog/posts/create-mcp.html) — MCP quality dimensions, dot notation, annotations, caching, create-mcp skill
+- [PDF Parsing for Complaint Forms — Docling vs PyMuPDF vs PaddleOCR](https://kooexperience.com/blog/posts/pdf-parsing-comparison.html) — 7 parsers, ablation tests, scanned & handwritten documents
 - [I Built an AI Wine Deal Finder — Here's What 50 Bottles Taught Me](https://kooexperience.com/blog/posts/minmax-wine.html) — Brave API, Gemini grounding, data validation pipeline
 - [Building Job Hunter SG — AI Resume Coaching for Singapore](https://kooexperience.com/blog/posts/job-hunter.html) — 7-stage pipeline, 5 validation gates, SEA-LION AI
 - [What Mood Is the Market In? HMM Regime Detection](https://kooexperience.com/blog/posts/hmm-regime.html) — Interactive HMM walkthrough with live visualizations
