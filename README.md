@@ -4,7 +4,7 @@
 
 **Forward Deployed AI Engineer**
 
-Production LLM systems, agentic workflows, enterprise deployments | AI Singapore | Ex-Micron ($600M+ impact) | MSc NUS
+Production LLM systems, RAG, agent workflows, and enterprise AI delivery | AI Singapore | Ex-Micron (USD 600M+ impact) | MSc NUS
 
 [![Website](https://img.shields.io/badge/kooexperience.com-3b82f6?style=flat&logo=google-chrome&logoColor=white)](https://kooexperience.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3b82f6?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/haomingkoo)
@@ -16,12 +16,12 @@ Production LLM systems, agentic workflows, enterprise deployments | AI Singapore
 
 ## What I'm Working On
 
-- Building production ML systems at **AI Singapore (AIAP)** &mdash; computer vision, sequence modelling, NLP
-- Deploying **LLM pipelines, RAG systems, and agentic workflows** into enterprise environments
-- Shipping [8 live applications](https://kooexperience.com) that solve real problems &mdash; from AI-powered job matching to live Japan seasonal travel forecasts
-- Building open-source tools: [japan-seasons-mcp](https://github.com/haomingkoo/japan-seasons-mcp) — MCP server giving AI assistants live Japan travel data (1,700+ spots, 12 tools, Japan Meteorological Corporation)
+- Building production ML systems at **AI Singapore (AIAP)** across vision, sequence modelling, NLP, and MLOps
+- Building **RAG, agent workflows, evals, and LLM observability** into practical AI products
+- Shipping [8 live applications](https://kooexperience.com) that solve real problems, from job search to travel intelligence and source-backed data tools
+- Building open-source tools: [japan-seasons-mcp](https://github.com/haomingkoo/japan-seasons-mcp) - MCP server giving AI assistants live Japan travel data
 
-Previously led global AI-enabled transformation at **Micron Technology** for 7+ years, aligning 3,000+ engineers across four fabs and driving $600M+ in business impact. Co-led LPDDR5X and HBM3E product ramps.
+Previously led global AI-enabled transformation at **Micron Technology** for 7+ calendar years, aligning 3,000+ engineers across four fabs and driving USD 600M+ in business impact.
 
 ## Tech Stack
 
@@ -31,7 +31,9 @@ Previously led global AI-enabled transformation at **Micron Technology** for 7+ 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-111111?style=flat)
+![RAG](https://img.shields.io/badge/RAG-0f766e?style=flat)
+![Evals](https://img.shields.io/badge/Evals-7c3aed?style=flat)
 
 **Web & APIs**\
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -52,13 +54,14 @@ Previously led global AI-enabled transformation at **Micron Technology** for 7+ 
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Job Hunter SG**](https://job.kooexperience.com) | AI job search & resume coach for Singapore. 7-stage pipeline, 5 validation gates, RAG matching | FastAPI, React, SEA-LION, RAG |
-| [**Trader Koo**](https://trader.kooexperience.com) | S&P 500 AI dashboard with YOLOv8 chart-pattern detection and candle signals | FastAPI, YOLOv8, Plotly |
-| [**LionWeather**](https://lionweather.kooexperience.com) | Singapore weather intelligence with ML rainfall forecasting and SHAP analysis | React, LightGBM, Leaflet |
-| [**Preflight**](https://preflight.kooexperience.com) | Upload CSV/Parquet for instant EDA, data health checks, and baseline ML | Dash, scikit-learn, Plotly |
+| [**Job Hunter SG**](https://job.kooexperience.com) | Singapore job aggregator with RAG matching, ATS scoring, injectable keywords, and guarded resume edits | SEA-LION, RAG, ATS Scoring, Validation Gates |
+| [**Trader Koo**](https://trader.kooexperience.com) | Market review workflow with signals, paper-trade records, reports, and source freshness | FastAPI, React, YOLOv8, LightGBM |
+| [**Japan in Seasons**](https://seasons.kooexperience.com) | Japan travel intelligence with 12 MCP tools, 1,700+ places, and seasonal signals | TypeScript, Leaflet, MCP, Smithery 100/100 |
+| [**Amex Explorer**](https://amex-explorer.kooexperience.com) | Source-backed benefit explorer with maps, official data tracking, and stale-source alerts | TypeScript, Leaflet, Playwright, GitHub Actions |
+| [**LionWeather**](https://lionweather.kooexperience.com) | Singapore weather intelligence with ML rainfall forecasting and SHAP analysis | React, LightGBM, Leaflet, SHAP |
 | [**Photo Compliance Studio**](https://studio.kooexperience.com) | Passport-photo compliance checks with country rules and guided corrections | MediaPipe, OpenCV, FastAPI |
-| [**Wine Intelligence**](https://wine.kooexperience.com) | Automated wine price comparison with Vivino ratings, deal scoring, and data validation pipeline | Selenium, Gemini AI, Brave API, FastAPI |
-| [**Japan in Seasons**](https://seasons.kooexperience.com) | Live Japan seasonal travel — cherry blossom forecasts, autumn leaves, fruit picking & festivals. 1,700+ spots from JMC. MCP server + interactive map | TypeScript, Leaflet, MCP |
+| [**Preflight**](https://preflight.kooexperience.com) | CSV and Parquet profiling with data health checks, automated EDA, and baseline ML | Dash, scikit-learn, Plotly, Docker |
+| [**MinMax Wine**](https://wine.kooexperience.com) | Wine price comparison with bundle-aware pricing, Vivino context, and daily refreshes | Brave Search, Selenium, FastAPI, SQLAlchemy |
 
 ## GitHub Stats
 
@@ -71,32 +74,26 @@ Previously led global AI-enabled transformation at **Micron Technology** for 7+ 
 ## Latest Blog Posts
 
 **Building**
-- [I Went from 64 to 100/100 on Smithery. Here's Every Fix.](https://kooexperience.com/blog/posts/create-mcp.html) — MCP quality dimensions, dot notation, annotations, caching, create-mcp skill
-- [PDF Parsing for Complaint Forms — Docling vs PyMuPDF vs PaddleOCR](https://kooexperience.com/blog/posts/pdf-parsing-comparison.html) — 7 parsers, ablation tests, scanned & handwritten documents
-- [I Built an AI Wine Deal Finder — Here's What 50 Bottles Taught Me](https://kooexperience.com/blog/posts/minmax-wine.html) — Brave API, Gemini grounding, data validation pipeline
-- [Building Job Hunter SG — AI Resume Coaching for Singapore](https://kooexperience.com/blog/posts/job-hunter.html) — 7-stage pipeline, 5 validation gates, SEA-LION AI
-- [What Mood Is the Market In? HMM Regime Detection](https://kooexperience.com/blog/posts/hmm-regime.html) — Interactive HMM walkthrough with live visualizations
-- [How 468 Facial Landmarks Decide If You're Passport-Ready](https://kooexperience.com/blog/posts/photo-id-studio.html) — MediaPipe, compliance checks, 6 countries
-- [How I Built an AI-Powered Stock Market Dashboard](https://kooexperience.com/blog/posts/trader-koo.html) — YOLOv8 chart-pattern detection
+- [I Went from 64 to 100/100 on Smithery. Here's Every Fix.](https://kooexperience.com/blog/posts/create-mcp.html) - AI, MCP, TypeScript
+- [PDF Parsing for Complaint Forms — Docling vs PyMuPDF vs PaddleOCR](https://kooexperience.com/blog/posts/pdf-parsing-comparison.html) - ML, OCR, Open Source
+- [I Built an AI Wine Deal Finder — Here's What 50 Bottles Taught Me](https://kooexperience.com/blog/posts/minmax-wine.html) - AI, Full-Stack, Singapore
+- [Building Job Hunter SG - AI Resume Coaching for Singapore](https://kooexperience.com/blog/posts/job-hunter.html) - AI, Full-Stack, Singapore
+- [What Mood Is the Market In? An Interactive Guide to HMM Regime Detection](https://kooexperience.com/blog/posts/hmm-regime.html) - ML, Visualization, Trading
+- [How 468 Facial Landmarks Decide If You're Passport-Ready](https://kooexperience.com/blog/posts/photo-id-studio.html) - Computer Vision, FastAPI, OpenCV
+- [How I Built an AI-Powered Stock Market Dashboard](https://kooexperience.com/blog/posts/trader-koo.html) - YOLOv8, FastAPI, Computer Vision
+- [I Tried to Predict Singapore's Rain and It Humbled Me](https://kooexperience.com/blog/posts/lionweather.html) - ML, FastAPI, EDA
 
 **Research**
-- [DPO Interactive Demo — Your Language Model is Secretly a Reward Model](https://kooexperience.com/blog/posts/dpo-demo.html) — Interactive DPO loss calculator
-- [Visualizing Weak-Driven Learning: An Interactive WMSS Demo](https://kooexperience.com/blog/posts/wmss-demo.html) — SFT saturation, logit mixing, gradient amplification
+- [DPO Interactive Demo - Your Language Model is Secretly a Reward Model](https://kooexperience.com/blog/posts/dpo-demo.html) - ML, Alignment, Visualization
+- [Visualizing Weak-Driven Learning: An Interactive WMSS Demo](https://kooexperience.com/blog/posts/wmss-demo.html) - ML, Visualization
 
 **LLMOps**
-- [What I Learned from a Live LLM Serving Gauntlet](https://kooexperience.com/blog/posts/llm-gauntlet.html) — 19 engineers, 19 A100s, vLLM tuning
-- [LLM Inference: The Theory You Need Before Deploying](https://kooexperience.com/blog/posts/llm-inference-theory.html) — Prefill vs decode, VRAM math, quantization
-
-**Travel**
-- [9 Days in the Netherlands — Tulips, Windmills & Dutch Masters](https://kooexperience.com/travel/posts/netherlands.html)
-- [10 Days in Japan — Snow Festivals, Early Sakura & Mount Fuji](https://kooexperience.com/travel/posts/japan.html)
-- [13 Days Across Italy — A Winter Family Trip](https://kooexperience.com/travel/posts/italy.html)
-- [11 Days Across Japan — Sakura Season from Tokyo to Hiroshima](https://kooexperience.com/travel/posts/japan-sakura.html)
-- [5 Days in Seoul — Palaces, Street Food & Cafe Culture](https://kooexperience.com/travel/posts/korea.html)
+- [What I Learned from a Live LLM Serving Gauntlet](https://kooexperience.com/blog/posts/llm-gauntlet.html) - vLLM, Part 2
+- [LLM Inference: The Theory You Need Before Deploying](https://kooexperience.com/blog/posts/llm-inference-theory.html) - Inference, Part 1
 
 ## Connect
 
-Open to conversations about forward deployed AI, production ML systems, and agentic workflows.
+Open to conversations about forward deployed AI, production LLM systems, RAG, agent workflows, evals, and practical AI product delivery.
 
 - Website: [kooexperience.com](https://kooexperience.com)
 - LinkedIn: [linkedin.com/in/haomingkoo](https://linkedin.com/in/haomingkoo)
