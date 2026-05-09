@@ -2,7 +2,7 @@
 
 # Haoming Koo
 
-**Forward Deployed AI Engineer**
+**Applied AI Engineer**
 
 Production LLM systems, RAG, agent workflows, and enterprise AI delivery | AI Singapore | Ex-Micron (USD 600M+ impact) | MSc NUS
 
@@ -93,7 +93,7 @@ Previously led global AI-enabled transformation at **Micron Technology** for 7+ 
 
 ## Connect
 
-Open to conversations about forward deployed AI, production LLM systems, RAG, agent workflows, evals, and practical AI product delivery.
+Open to conversations about applied AI, production LLM systems, RAG, agent workflows, evals, and practical AI product delivery.
 
 - Website: [kooexperience.com](https://kooexperience.com)
 - LinkedIn: [linkedin.com/in/haomingkoo](https://linkedin.com/in/haomingkoo)
