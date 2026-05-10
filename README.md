@@ -4,7 +4,7 @@
 
 **Applied AI Engineer**
 
-Production LLM systems, RAG, agent workflows, and enterprise AI delivery | AI Singapore | Ex-Micron (USD 600M+ impact) | MSc NUS
+Production LLM systems, RAG, agent workflows, and enterprise AI delivery | AI Singapore | Ex-Micron (contributed to USD 600M+ in program outcomes) | MSc NUS
 
 [![Website](https://img.shields.io/badge/kooexperience.com-3b82f6?style=flat&logo=google-chrome&logoColor=white)](https://kooexperience.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3b82f6?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/haomingkoo)
@@ -21,7 +21,7 @@ Production LLM systems, RAG, agent workflows, and enterprise AI delivery | AI Si
 - Shipping [8 live applications](https://kooexperience.com) that solve real problems, from job search to travel intelligence and source-backed data tools
 - Building open-source tools: [japan-seasons-mcp](https://github.com/haomingkoo/japan-seasons-mcp) - MCP server giving AI assistants live Japan travel data
 
-Previously led global AI-enabled transformation at **Micron Technology** for 7+ calendar years, aligning 3,000+ engineers across four fabs and driving USD 600M+ in business impact.
+Previously led global AI-enabled transformation at **Micron Technology** for 7 years, supporting cross-site programs across four fabs and contributing to USD 600M+ in program outcomes.
 
 ## Tech Stack
 
