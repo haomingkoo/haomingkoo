@@ -18,7 +18,7 @@ Production LLM systems, RAG, agent workflows, and enterprise AI delivery | AI Si
 
 - Building production ML systems at **AI Singapore (AIAP)** across vision, sequence modelling, NLP, and MLOps, including an industry AI solution with AMD through the 100E programme
 - Building **RAG, agent workflows, evals, and LLM observability** into practical AI products
-- Shipping [8 live applications](https://kooexperience.com) that solve real problems, from job search to travel intelligence and source-backed data tools
+- Maintaining [8 deployed public systems](https://kooexperience.com) across job search, travel intelligence, market research, weather, data triage, and source-backed tools
 - Building open-source tools: [japan-seasons-mcp](https://github.com/haomingkoo/japan-seasons-mcp) - MCP server giving AI assistants live Japan travel data
 
 Previously led global AI-enabled transformation at **Micron Technology** for 7 years, supporting cross-site programs across four fabs and contributing to USD 600M+ in program outcomes.
@@ -32,18 +32,26 @@ Previously led global AI-enabled transformation at **Micron Technology** for 7 y
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-111111?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=flat)
+![MCP](https://img.shields.io/badge/MCP-111827?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-0f766e?style=flat)
 ![Evals](https://img.shields.io/badge/Evals-7c3aed?style=flat)
+![Langfuse](https://img.shields.io/badge/Langfuse-111111?style=flat)
+![Arize Phoenix](https://img.shields.io/badge/Arize_Phoenix-f97316?style=flat)
 
 **Web & APIs**\
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Dash](https://img.shields.io/badge/Dash-008DE4?style=flat&logo=plotly&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-bb2d3b?style=flat)
 
 **Infrastructure & MLOps**\
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
@@ -54,11 +62,11 @@ Previously led global AI-enabled transformation at **Micron Technology** for 7 y
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Job Hunter SG**](https://job.kooexperience.com) | Singapore job search product with RAG matching, ATS scoring, role-fit keyword checks, and fact-checked resume edits | React, FastAPI, SEA-LION, SQLAlchemy |
-| [**Trader Koo**](https://trader.kooexperience.com) | Market research dashboard with source-fresh data, evidence charts, paper-trade records, and Telegram alerts | FastAPI, React, Plotly, SQLite |
-| [**Japan in Seasons**](https://seasons.kooexperience.com) | Japan seasonal travel map, REST API, and MCP server with 17 read-only tools and 1,700+ places | TypeScript, MCP SDK, Leaflet, Zod |
-| [**Amex Explorer**](https://amex-explorer.kooexperience.com) | Source-backed benefit explorer with maps, official data tracking, and stale-source alerts | Static JS, Leaflet, Playwright, GitHub Actions |
-| [**LionWeather**](https://lionweather.kooexperience.com) | Singapore weather app with live NEA ingestion, radar cache, saved locations, and LightGBM rainfall forecasts | React, FastAPI, LightGBM, Leaflet |
+| [**Job Hunter SG**](https://job.kooexperience.com) | Singapore job search product with RAG matching, ATS scoring, role-fit keyword checks, and fact-checked resume edits | React, FastAPI, SEA-LION, sentence-transformers |
+| [**Trader Koo**](https://trader.kooexperience.com) | Market research dashboard with source-fresh data, evidence charts, paper-trade records, and Telegram alerts | FastAPI, React, LightGBM, YOLOv8 |
+| [**Japan in Seasons**](https://seasons.kooexperience.com) | Japan seasonal travel map, REST API, and MCP server with 17 read-only tools and 1,700+ places | TypeScript, MCP SDK, Node HTTP, Zod |
+| [**Amex Explorer**](https://amex-explorer.kooexperience.com) | Source-backed benefit explorer with maps, official data tracking, and stale-source alerts | Python, Playwright, GitHub Actions, Source Hashes |
+| [**LionWeather**](https://lionweather.kooexperience.com) | Singapore weather app with live NEA ingestion, radar cache, saved locations, and LightGBM rainfall forecasts | React, FastAPI, LightGBM, NEA API |
 | [**Photo Compliance Studio**](https://studio.kooexperience.com) | Passport/ID photo rules engine with face landmarks, segmentation, crop assistance, and country-profile checks | FastAPI, MediaPipe, OpenCV, rembg |
 | [**Preflight**](https://preflight.kooexperience.com) | Dash workbench for CSV/Parquet uploads, EDA charts, baseline classifiers, and CV metrics | Dash, Plotly, scikit-learn, Pandas |
 | [**MinMax Wine**](https://wine.kooexperience.com) | Wine deal engine with retailer scraping, bundle normalization, Vivino matching, and confidence-aware scoring | FastAPI, Selenium, SQLAlchemy, PostgreSQL |
