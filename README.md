@@ -54,14 +54,14 @@ Previously led global AI-enabled transformation at **Micron Technology** for 7 y
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Job Hunter SG**](https://job.kooexperience.com) | Singapore job search product with RAG matching, ATS scoring, role-fit keyword checks, and fact-checked resume edits | SEA-LION, RAG, ATS Scoring, Validation Gates |
-| [**Trader Koo**](https://trader.kooexperience.com) | Market review workflow with signals, paper-trade records, reports, and source freshness | FastAPI, React, YOLOv8, LightGBM |
-| [**Japan in Seasons**](https://seasons.kooexperience.com) | Japan travel intelligence with 12 MCP tools, 1,700+ places, and seasonal signals | TypeScript, Leaflet, MCP, Smithery 100/100 |
-| [**Amex Explorer**](https://amex-explorer.kooexperience.com) | Source-backed benefit explorer with maps, official data tracking, and stale-source alerts | TypeScript, Leaflet, Playwright, GitHub Actions |
-| [**LionWeather**](https://lionweather.kooexperience.com) | Singapore weather intelligence with ML rainfall forecasting and SHAP analysis | React, LightGBM, Leaflet, SHAP |
-| [**Photo Compliance Studio**](https://studio.kooexperience.com) | Passport-photo compliance checks with country rules and guided corrections | MediaPipe, OpenCV, FastAPI |
-| [**Preflight**](https://preflight.kooexperience.com) | CSV and Parquet profiling with data health checks, automated EDA, and baseline ML | Dash, scikit-learn, Plotly, Docker |
-| [**MinMax Wine**](https://wine.kooexperience.com) | Wine price comparison with bundle-aware pricing, Vivino context, and daily refreshes | Brave Search, Selenium, FastAPI, SQLAlchemy |
+| [**Job Hunter SG**](https://job.kooexperience.com) | Singapore job search product with RAG matching, ATS scoring, role-fit keyword checks, and fact-checked resume edits | React, FastAPI, SEA-LION, SQLAlchemy |
+| [**Trader Koo**](https://trader.kooexperience.com) | Market research dashboard with source-fresh data, evidence charts, paper-trade records, and Telegram alerts | FastAPI, React, Plotly, SQLite |
+| [**Japan in Seasons**](https://seasons.kooexperience.com) | Japan seasonal travel map, REST API, and MCP server with 17 read-only tools and 1,700+ places | TypeScript, MCP SDK, Leaflet, Zod |
+| [**Amex Explorer**](https://amex-explorer.kooexperience.com) | Source-backed benefit explorer with maps, official data tracking, and stale-source alerts | Static JS, Leaflet, Playwright, GitHub Actions |
+| [**LionWeather**](https://lionweather.kooexperience.com) | Singapore weather app with live NEA ingestion, radar cache, saved locations, and LightGBM rainfall forecasts | React, FastAPI, LightGBM, Leaflet |
+| [**Photo Compliance Studio**](https://studio.kooexperience.com) | Passport/ID photo rules engine with face landmarks, segmentation, crop assistance, and country-profile checks | FastAPI, MediaPipe, OpenCV, rembg |
+| [**Preflight**](https://preflight.kooexperience.com) | Dash workbench for CSV/Parquet uploads, EDA charts, baseline classifiers, and CV metrics | Dash, Plotly, scikit-learn, Pandas |
+| [**MinMax Wine**](https://wine.kooexperience.com) | Wine deal engine with retailer scraping, bundle normalization, Vivino matching, and confidence-aware scoring | FastAPI, Selenium, SQLAlchemy, PostgreSQL |
 
 ## GitHub Stats
 
@@ -77,14 +77,14 @@ Previously led global AI-enabled transformation at **Micron Technology** for 7 y
 - [I Went from 64 to 100/100 on Smithery. Here's Every Fix.](https://kooexperience.com/blog/posts/create-mcp.html) - AI, MCP, TypeScript
 - [PDF Parsing for Complaint Forms — Docling vs PyMuPDF vs PaddleOCR](https://kooexperience.com/blog/posts/pdf-parsing-comparison.html) - ML, OCR, Open Source
 - [I Built an AI Wine Deal Finder — Here's What 50 Bottles Taught Me](https://kooexperience.com/blog/posts/minmax-wine.html) - AI, Full-Stack, Singapore
-- [Building Job Hunter SG - AI Resume Coaching for Singapore](https://kooexperience.com/blog/posts/job-hunter.html) - AI, Full-Stack, Singapore
+- [Building Job Hunter SG: AI Resume Coaching for Singapore](https://kooexperience.com/blog/posts/job-hunter.html) - AI, Full-Stack, Singapore
 - [What Mood Is the Market In? An Interactive Guide to HMM Regime Detection](https://kooexperience.com/blog/posts/hmm-regime.html) - ML, Visualization, Trading
 - [How 468 Facial Landmarks Decide If You're Passport-Ready](https://kooexperience.com/blog/posts/photo-id-studio.html) - Computer Vision, FastAPI, OpenCV
 - [How I Built an AI-Powered Stock Market Dashboard](https://kooexperience.com/blog/posts/trader-koo.html) - YOLOv8, FastAPI, Computer Vision
 - [I Tried to Predict Singapore's Rain and It Humbled Me](https://kooexperience.com/blog/posts/lionweather.html) - ML, FastAPI, EDA
 
 **Research**
-- [DPO Interactive Demo - Your Language Model is Secretly a Reward Model](https://kooexperience.com/blog/posts/dpo-demo.html) - ML, Alignment, Visualization
+- [DPO Interactive Demo: Your Language Model is Secretly a Reward Model](https://kooexperience.com/blog/posts/dpo-demo.html) - ML, Alignment, Visualization
 - [Visualizing Weak-Driven Learning: An Interactive WMSS Demo](https://kooexperience.com/blog/posts/wmss-demo.html) - ML, Visualization
 
 **LLMOps**
