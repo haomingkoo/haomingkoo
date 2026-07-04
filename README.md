@@ -6,6 +6,8 @@
 
 Production LLM systems, RAG, agent workflows, and enterprise AI delivery | AI Singapore | Ex-Micron (contributed to USD 600M+ in program outcomes) | MSc NUS
 
+GitHub username: [`haomingkoo`](https://github.com/haomingkoo)
+
 [![Website](https://img.shields.io/badge/kooexperience.com-3b82f6?style=flat&logo=google-chrome&logoColor=white)](https://kooexperience.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3b82f6?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/haomingkoo)
 [![Email](https://img.shields.io/badge/Email-3b82f6?style=flat&logo=gmail&logoColor=white)](mailto:haomingkoo@gmail.com)
@@ -16,7 +18,7 @@ Production LLM systems, RAG, agent workflows, and enterprise AI delivery | AI Si
 
 ## What I'm Working On
 
-- Building production ML systems at **AI Singapore (AIAP)** across vision, sequence modelling, NLP, and MLOps, including an industry AI solution with AMD through the 100E programme
+- Building production ML systems at **AI Singapore (AIAP)** across vision, sequence modelling, NLP, and MLOps, including a 100E industry AI solution for complex operational planning
 - Building **RAG, agent workflows, evals, and LLM observability** into practical AI products
 - Maintaining [8 deployed public systems](https://kooexperience.com) across job search, travel intelligence, market research, weather, data triage, and source-backed tools
 - Building open-source tools: [japan-seasons-mcp](https://github.com/haomingkoo/japan-seasons-mcp) - MCP server giving AI assistants live Japan travel data
