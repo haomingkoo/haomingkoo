@@ -4,13 +4,14 @@
 
 **Applied AI Engineer**
 
-Production LLM systems, RAG, agent workflows, and enterprise AI delivery | AI Singapore | Ex-Micron (contributed to USD 600M+ in program outcomes) | MSc NUS
+Production LLM systems, RAG, agent workflows, and enterprise AI delivery | AI Singapore | Ex-Micron (contributed to USD 600M+ in program outcomes) | MSc NUS | Claude Certified Architect (Anthropic)
 
 GitHub username: [`haomingkoo`](https://github.com/haomingkoo)
 
 [![Website](https://img.shields.io/badge/kooexperience.com-3b82f6?style=flat&logo=google-chrome&logoColor=white)](https://kooexperience.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3b82f6?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/haomingkoo)
 [![Email](https://img.shields.io/badge/Email-3b82f6?style=flat&logo=gmail&logoColor=white)](mailto:haomingkoo@gmail.com)
+[![Claude Certified Architect](https://img.shields.io/badge/Claude_Certified_Architect-Foundations-CC785C?style=flat)](https://www.credly.com/badges/72faeea1-bb8f-4194-80d8-e9b1daee769e/public_url)
 
 </div>
 
