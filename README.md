@@ -4,14 +4,13 @@
 
 **Applied AI Engineer**
 
-Production LLM systems, RAG, agent workflows, and enterprise AI delivery | AI Singapore | Ex-Micron (contributed to USD 600M+ in program outcomes) | MSc NUS | Claude Certified Architect (Anthropic)
+Production LLM systems, RAG, agent workflows, and enterprise AI delivery | AI Singapore | Ex-Micron (contributed to USD 600M+ in program outcomes) | MSc NUS
 
 GitHub username: [`haomingkoo`](https://github.com/haomingkoo)
 
 [![Website](https://img.shields.io/badge/kooexperience.com-3b82f6?style=flat&logo=google-chrome&logoColor=white)](https://kooexperience.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3b82f6?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/haomingkoo)
 [![Email](https://img.shields.io/badge/Email-3b82f6?style=flat&logo=gmail&logoColor=white)](mailto:haomingkoo@gmail.com)
-[![Claude Certified Architect](https://img.shields.io/badge/Claude_Certified_Architect-Foundations-CC785C?style=flat)](https://www.credly.com/badges/72faeea1-bb8f-4194-80d8-e9b1daee769e/public_url)
 
 </div>
 
@@ -85,6 +84,7 @@ Previously led global AI-enabled transformation at **Micron Technology** for 7 y
 ## Latest Blog Posts
 
 **Building**
+- [A Visual Guide to Simulating a TSV from Etch to Polish](https://kooexperience.com/blog/posts/tsv-process-simulation.html) - Semiconductor, Simulation, Visualization
 - [I Went from 64 to 100/100 on Smithery. Here's Every Fix.](https://kooexperience.com/blog/posts/create-mcp.html) - AI, MCP, TypeScript
 - [PDF Parsing for Complaint Forms — Docling vs PyMuPDF vs PaddleOCR](https://kooexperience.com/blog/posts/pdf-parsing-comparison.html) - ML, OCR, Open Source
 - [I Built an AI Wine Deal Finder — Here's What 50 Bottles Taught Me](https://kooexperience.com/blog/posts/minmax-wine.html) - AI, Full-Stack, Singapore
@@ -100,7 +100,6 @@ Previously led global AI-enabled transformation at **Micron Technology** for 7 y
 
 **LLMOps**
 - [What I Learned from a Live LLM Serving Gauntlet](https://kooexperience.com/blog/posts/llm-gauntlet.html) - vLLM, Part 2
-- [LLM Inference: The Theory You Need Before Deploying](https://kooexperience.com/blog/posts/llm-inference-theory.html) - Inference, Part 1
 
 ## Connect
 
