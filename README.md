@@ -84,6 +84,7 @@ Previously led global AI-enabled transformation at **Micron Technology** for 7 y
 ## Latest Blog Posts
 
 **Building**
+- [From 73,857 Long COVID Records to One Plausible Treatment Lane](https://kooexperience.com/blog/posts/what-i-learned-building-a-deep-research-pipeline-for-long-covid.html) - Evidence Engineering, Long COVID, Clinical Research
 - [A Visual Guide to Simulating a TSV from Etch to Polish](https://kooexperience.com/blog/posts/tsv-process-simulation.html) - Semiconductor, Simulation, Visualization
 - [I Went from 64 to 100/100 on Smithery. Here's Every Fix.](https://kooexperience.com/blog/posts/create-mcp.html) - AI, MCP, TypeScript
 - [PDF Parsing for Complaint Forms — Docling vs PyMuPDF vs PaddleOCR](https://kooexperience.com/blog/posts/pdf-parsing-comparison.html) - ML, OCR, Open Source
@@ -97,9 +98,6 @@ Previously led global AI-enabled transformation at **Micron Technology** for 7 y
 **Research**
 - [DPO Interactive Demo: Your Language Model is Secretly a Reward Model](https://kooexperience.com/blog/posts/dpo-demo.html) - ML, Alignment, Visualization
 - [Visualizing Weak-Driven Learning: An Interactive WMSS Demo](https://kooexperience.com/blog/posts/wmss-demo.html) - ML, Visualization
-
-**LLMOps**
-- [What I Learned from a Live LLM Serving Gauntlet](https://kooexperience.com/blog/posts/llm-gauntlet.html) - vLLM, Part 2
 
 ## Connect
 
