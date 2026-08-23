@@ -2,9 +2,9 @@
 
 # Haoming Koo
 
-**Applied AI Engineer**
+**Senior Software Development Engineer (AI Agentic) at AMD**
 
-Production LLM systems, RAG, agent workflows, and enterprise AI delivery | AI Singapore | Ex-Micron (contributed to USD 600M+ in program outcomes) | MSc NUS
+Production AI systems, RAG, agent workflows, and evals | AMD | Certified AI Engineer by AI Singapore | Ex-Micron (contributed to USD 600M+ in program outcomes) | MSc NUS
 
 GitHub username: [`haomingkoo`](https://github.com/haomingkoo)
 
@@ -18,7 +18,7 @@ GitHub username: [`haomingkoo`](https://github.com/haomingkoo)
 
 ## What I'm Working On
 
-- Building production ML systems at **AI Singapore (AIAP)** across vision, sequence modelling, NLP, and MLOps, including a 100E industry AI solution for complex operational planning
+- Working as a **Senior Software Development Engineer (AI Agentic) at AMD**, building end-to-end agents, RAG and context strategies, evaluation frameworks, and production integrations
 - Building **RAG, agent workflows, evals, and LLM observability** into practical AI products
 - Maintaining [8 deployed public systems](https://kooexperience.com) across job search, travel intelligence, market research, weather, data triage, and source-backed tools
 - Building open-source tools: [japan-seasons-mcp](https://github.com/haomingkoo/japan-seasons-mcp) - MCP server giving AI assistants live Japan travel data
