@@ -4,7 +4,7 @@
 
 **Senior Software Development Engineer (AI Agentic) at AMD**
 
-Production AI systems, RAG, agent workflows, and evals | AMD | Certified AI Engineer by AI Singapore | Ex-Micron (contributed to USD 600M+ in program outcomes) | MSc NUS
+Production AI systems, RAG, agent workflows, and evals | AMD | Certified AI Engineer by AI Singapore | Claude Certified Architect: Foundations (Anthropic) | Ex-Micron (contributed to USD 600M+ in program outcomes) | MSc NUS
 
 GitHub username: [`haomingkoo`](https://github.com/haomingkoo)
 
@@ -65,11 +65,11 @@ Previously led global AI-enabled transformation at **Micron Technology** for 7 y
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**Job Hunter SG**](https://job.kooexperience.com) | Singapore job search product with RAG matching, ATS scoring, role-fit keyword checks, and fact-checked resume edits | React, FastAPI, SEA-LION, sentence-transformers |
-| [**Trader Koo**](https://trader.kooexperience.com) | Market research dashboard with source-fresh data, evidence charts, paper-trade records, and Telegram alerts | FastAPI, React, LightGBM, YOLOv8 |
+| [**Trader Koo**](https://trader.kooexperience.com) | Market research dashboard with source-fresh data, evidence charts, paper-trade records, and Telegram alerts | FastAPI, React, YOLOv8, SQLite |
 | [**Japan in Seasons**](https://seasons.kooexperience.com) | Japan seasonal travel map, REST API, and MCP server with 17 read-only tools and 1,700+ places | TypeScript, MCP SDK, Node HTTP, Zod |
 | [**Amex Explorer**](https://amex-explorer.kooexperience.com) | Source-backed benefit explorer with maps, official data tracking, and stale-source alerts | Python, Playwright, GitHub Actions, Source Hashes |
 | [**LionWeather**](https://lionweather.kooexperience.com) | Singapore weather app with live NEA ingestion, radar cache, saved locations, and LightGBM rainfall forecasts | React, FastAPI, LightGBM, NEA API |
-| [**Photo Compliance Studio**](https://studio.kooexperience.com) | Passport/ID photo rules engine with face landmarks, segmentation, crop assistance, and country-profile checks | FastAPI, MediaPipe, OpenCV, rembg |
+| [**Photo ID Studio**](https://studio.kooexperience.com) | Passport/ID photo rules engine with face landmarks, segmentation, crop assistance, and country-profile checks | FastAPI, MediaPipe, OpenCV, rembg |
 | [**Preflight**](https://preflight.kooexperience.com) | Dash workbench for CSV/Parquet uploads, EDA charts, baseline classifiers, and CV metrics | Dash, Plotly, scikit-learn, Pandas |
 | [**MinMax Wine**](https://wine.kooexperience.com) | Wine deal engine with retailer scraping, bundle normalization, Vivino matching, and confidence-aware scoring | FastAPI, Selenium, SQLAlchemy, PostgreSQL |
 
@@ -87,8 +87,8 @@ Previously led global AI-enabled transformation at **Micron Technology** for 7 y
 - [From 73,857 Long COVID Records to One Plausible Treatment Lane](https://kooexperience.com/blog/posts/what-i-learned-building-a-deep-research-pipeline-for-long-covid.html) - Evidence Engineering, Long COVID, Clinical Research
 - [A Visual Guide to Simulating a TSV from Etch to Polish](https://kooexperience.com/blog/posts/tsv-process-simulation.html) - Semiconductor, Simulation, Visualization
 - [I Went from 64 to 100/100 on Smithery. Here's Every Fix.](https://kooexperience.com/blog/posts/create-mcp.html) - AI, MCP, TypeScript
-- [PDF Parsing for Complaint Forms — Docling vs PyMuPDF vs PaddleOCR](https://kooexperience.com/blog/posts/pdf-parsing-comparison.html) - ML, OCR, Open Source
-- [I Built an AI Wine Deal Finder — Here's What 50 Bottles Taught Me](https://kooexperience.com/blog/posts/minmax-wine.html) - AI, Full-Stack, Singapore
+- [PDF Parsing for Complaint Forms: Docling vs PyMuPDF vs PaddleOCR](https://kooexperience.com/blog/posts/pdf-parsing-comparison.html) - ML, OCR, Open Source
+- [I Built an AI Wine Deal Finder. Here's What 50 Bottles Taught Me.](https://kooexperience.com/blog/posts/minmax-wine.html) - AI, Full-Stack, Singapore
 - [Building Job Hunter SG: AI Resume Coaching for Singapore](https://kooexperience.com/blog/posts/job-hunter.html) - AI, Full-Stack, Singapore
 - [What Mood Is the Market In? An Interactive Guide to HMM Regime Detection](https://kooexperience.com/blog/posts/hmm-regime.html) - ML, Visualization, Trading
 - [How 468 Facial Landmarks Decide If You're Passport-Ready](https://kooexperience.com/blog/posts/photo-id-studio.html) - Computer Vision, FastAPI, OpenCV
